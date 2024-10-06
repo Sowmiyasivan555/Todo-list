@@ -1,0 +1,42 @@
+body{
+
+    background-color: rgb(69, 67, 67);
+}
+
+
+#list{
+    text-align: center;
+    background-color: blanchedalmond;
+    height: 300px;
+    margin-top: 200px;
+    padding-top: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+    border-radius: 10px;
+}
+input{
+
+    padding: 5px;
+}
+#btn1{
+    background-color: rgb(112, 163, 112);
+    border-radius: 8px;
+    margin-left: 5px;
+
+}
+
+#btn{
+    margin-left: 6px;
+    border-radius: 8px;
+    margin-top: 5px;
+    background-color: rgb(219, 129, 129);
+    
+
+}
+li{
+    margin-left: 90px;
+    margin-right: 90px;
+    margin: none;
+    padding: none;
+
+}
